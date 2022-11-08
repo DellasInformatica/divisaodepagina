@@ -1,0 +1,51 @@
+p{
+	 font-size: 20px;
+}
+
+#cabecalho{
+	height: 150px;
+	width: 1450px;
+	background:#228B22;
+	border:5px solid black;
+	font-style: italic;
+
+}
+#menu{
+	height:500px;
+	width: 300px;
+	background: #FFFF00;
+	float:left;
+	border:5px solid black;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	font-style: italic;
+}
+#principal{
+	height: 500px;
+	width: 800px;
+	background:#1E90FF; 
+	float:left;
+	border:5px solid black;
+	margin-top: 15px;
+	margin-left: 15px;
+	font-style: italic;
+}	
+#lado{
+	height:500px;
+	width: 300px;
+	background: #FFFF00;
+	float:left;
+	border:5px solid black;
+	margin-left: 15px;
+	margin-top: 15px;
+	font-style: italic;
+}
+#rodape{
+	height: 150px;
+	width: 1450px;
+	background:#228B22;
+	clear:both;
+	border:5px solid black;
+	margin-top: 15px;
+	font-style: italic;
+}
